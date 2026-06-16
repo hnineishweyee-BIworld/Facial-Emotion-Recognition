@@ -35,8 +35,8 @@ The system is trained to recognize core facial expressions such as:
 ##  Project Visuals & Screenshots
 Since the complete end-to-end source code is restricted, the screenshots below demonstrate the system's architecture and output capabilities achieved during development.
 
-![Facial Expression Detection Output](![Demo](happy.jpg))
-*Figure 1: Real-time facial expression recognition output preview.*
+![Facial Expression Detection Output](happy.jpg)
+
 
 
 Important Note: This repository contains the core system architecture, workflow documentation, and partial implementation files for this university project. Due to data migration and system loss, the full production codebase is currently unavailable. 
